@@ -11,3 +11,7 @@ chmod +x helper.sh
 
 ```
 
+# Author:
+
+<li>Author: CodeOpen</li>
+<li>Linhas: 24</li>
