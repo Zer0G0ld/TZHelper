@@ -1,4 +1,4 @@
-## helper
+## TZHelper
 # Sobre:
 <p>É parte de um projeto maior que estou trabalhando então colocarei por partes aqui no github</p>
  
